@@ -9,7 +9,7 @@ describe("unsupported directives", function() {
 		var parser = new ssi("", "", "");
 		var results = parser.parse("", config);
 		
-		assert.equal("", results.contents);
+		assert.equal('unsupported directive config', results.contents);
 	});
 });
 
