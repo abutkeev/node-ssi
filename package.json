@@ -1,5 +1,5 @@
 {
-  "name": "ssi",
+  "name": "@abutkeev/ssi",
   "version": "0.3.1",
   "description": "Server Side Includes for NodeJS",
   "author": "Chen-Heng Chang <wandererm@gmail.com> (http://kidwm.net/)",
